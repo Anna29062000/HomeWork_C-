@@ -19,4 +19,4 @@ for (int i = 0; i < 20; i++)
 int count = 0;
 count = CountEvenNumbers(array);
 Console.WriteLine();
-Console.Write($"Количество четных чисел в массиве: {count}");
+Console.Write($"Количество четных чисел в массиве: {count} ");
